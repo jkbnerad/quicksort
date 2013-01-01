@@ -14,7 +14,7 @@ class QuickSort
   
   ###*
     Constructor 
-    @param The unsorted array
+    @param items The unsorted array
   ###
   constructor: (@items) ->
   
